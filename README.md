@@ -1,7 +1,9 @@
-# Credit_Card_Financial_Dashboard
+Credit_Card_Financial_Dashboard
+
 Developed a comprehensive Credit Card Weekly Dashboard that provides real-time insights into key performance metrics and spending trends. The dashboard enables stakeholders to monitor, analyze, and improve credit card operations effectively, using SQL, Excel, and Power BI for end-to-end data processing and visualization.
 
-PowerBI Dashboard
+Power BI Dashboard
+👉 View the Power BI Dashboard
 
 Tools Used
 
